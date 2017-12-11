@@ -766,11 +766,6 @@ body {
 	transition: all .5s;
 }
 
-.team__member:hover .team__member-soc {
-	opacity: 1;
-	visibility: visible;
-}
-
 .team__member-soc li {
 	display: inline-block;
 }
@@ -923,12 +918,6 @@ body {
 
 .team__member-info {
 	height: auto;
-}
-
-.team__member-soc {
-	width: 260px;
-	top: 220px;
-	margin-left: -130px;
 }
 
 }
