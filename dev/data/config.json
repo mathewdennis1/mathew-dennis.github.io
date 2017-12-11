@@ -1,11 +1,11 @@
 {
 	"site": {
 		"lang": "en",
-		"title": "Design studio template",
+		"title": "Erfan Abdi",
 		"titleDelim": " | ",
-		"description": "Free charity website template",
-		"keywords": "html template, theme, freebie, opensource",
-		"url": "http://website-templates.github.io/design-studio_one-page-template"
+		"description": "Erfan Abdi Personal WebSite",
+		"keywords": "erfan abdi, erfan, abdi, developer, student, opensource",
+		"url": "http://erfanoabdi.github.io/"
 	},
 	"modules": {
 		"googleFonts": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
