@@ -585,6 +585,19 @@ body {
 	font-size: 15px;
 }
 
+.buttons {
+	text-align: center;
+}
+
+.buttons__content {
+	margin: 45px auto;
+}
+
+.buttons__item {
+	display: inline-block;
+	margin: 0 30px;
+}
+
 .promo {
 	width: 100%;
 	min-height: 455px;
